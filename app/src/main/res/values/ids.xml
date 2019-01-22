@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id"/>
+    <item name="currentWeatherFragment" type="id"/>
+    <item name="futureWeatherFragment" type="id"/>
+    <item name="settingFragment" type="id"/>
+    <item name="nav_host_fragment" type="id"/>
+    <item name="bottom_nav" type="id"/>
+    <item name="text_view" type="id"/>
+</resources>
